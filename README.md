@@ -7,7 +7,7 @@ The map was created using an array. The letters in the array indicate different 
 There is a dictionary that contains different RGB color values.
 
 ### Character and Background Images
-Images were selected and uploaded into the pygame window using pygame.image.load().convert_alpha()
+Images were selected and uploaded into the pygame window using pygame.image.load().convert_alpha()  
 Images used were:
 - Mario background
 - Mario character
